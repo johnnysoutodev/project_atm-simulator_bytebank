@@ -1,7 +1,7 @@
 
 # 🏧 Projeto de um Simulador de ATM para a ByteBank
 
-Um sistema completo de caixa eletrônico (ATM) desenvolvido com tecnologias nátivas de JavaScript para a web.
+Um sistema completo de ATM desenvolvido com tecnologias nativas de JavaScript para a web.
 
 ## 📋 Sobre o Projeto
 
