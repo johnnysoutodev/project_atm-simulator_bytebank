@@ -1,4 +1,3 @@
-
 # 🏧 Projeto de um Simulador de ATM para a ByteBank
 
 Um sistema completo de ATM desenvolvido com tecnologias nativas de JavaScript para a web.
@@ -47,11 +46,11 @@ npm run dev
 ## 📁 Estrutura do Projeto
 
 ```
-desafio-atm/
+project_atm-simulator_bytebank/
 ├── atm-frontend/     # Interface do usuário (HTML/CSS/JS)
 ├── atm-backend/      # API REST (Node.js)
-├── docs/            # Documentação
-└── README.md        # Este arquivo
+│   └── docs/         # Documentação da API
+└── README.md         # Este arquivo
 ```
 
 ## 🧪 Contas de Teste
@@ -65,8 +64,8 @@ desafio-atm/
 
 - [📖 Frontend - Guia de Desenvolvimento](./atm-frontend/README.md)
 - [🔧 Backend - Documentação da API](./atm-backend/README.md)
-- [🌐 Documentação da API](./docs/api-docs.md)
-- [🚀 Guia de Deploy](./docs/deployment.md)
+- [🌐 Documentação da API](./atm-backend/docs/api-docs.md)
+- [🚀 Guia de Deploy](./atm-backend/docs/deployment.md)
 
 ## 🎯 Funcionalidades
 
