@@ -22,17 +22,17 @@ Este é um projeto de desafio que simula um caixa eletrônico bancário, compost
 ```bash
 # 1. Clone o repositório
 git clone https://github.com/johnnysoutodev/project_atm-simulador_bytebank.git
-cd desafio-atm
+cd project_atm-simulador_bytebank
 
 # 2. Instalar dependências do backend
 cd atm-backend
 npm install
 cd ..
 
-# 3. Executar o backend
+# 3. Executar apenas o backend
 npm run start:backend
 
-# 4. Em outro terminal, executar o frontend
+# 4. Em outro terminal, executar apenas o frontend
 npm run start:frontend
 
 # OU executar ambos simultaneamente
